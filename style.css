@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;700&family=Poppins:wght@300;400;600&family=Roboto:wght@400;500&display=swap');
+ 
+ body{
+     margin: 0;
+     padding: 10px;
+     font-family: Montserrat;
+     font-weight: bold;
+ }
+ input{
+     padding-left: 10px;
+     padding-right: 10px;
+     width: 100%;
+     box-sizing: border-box;
+     font-weight: bold;
+     padding-bottom: 10px;
+     padding-top: 10px;
+     border: rgb(29, 150, 29) 1px solid;
+     border-radius: 6px;
+
+ }
+
+ button{
+background-color: rgb(29, 150, 29);
+color: white;
+ padding: 10px  20px;
+ margin-top: 5px;
+ font-weight: bold;
+ border:none;
+ border-radius: 6px;
+ }
+
+ li {
+ 
+     
+ }
